@@ -1,6 +1,6 @@
 FROM python:3.12-alpine
 
-LABEL org.opencontainers.image.source="https://github.com/Neyarune/docker_and_github_actions.git"
+LABEL org.opencontainers.image.source="https://github.com/neyarune/docker_and_github_actions.git"
 
 WORKDIR /app
 
